@@ -8,8 +8,8 @@ Actual picture here
 
 ## Setup
 Runningly locally
-- git clone https://github.com/smurthw8/moviesgit2.0.git
-- cd moviesgit2.0
+- git clone 
+- cd 
 - npm install
 - node index.js
 - Navigate to http://localhost:3000 to see the website
